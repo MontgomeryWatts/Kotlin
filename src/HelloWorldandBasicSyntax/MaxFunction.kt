@@ -1,3 +1,7 @@
+package HelloWorldandBasicSyntax
+
+//Seeing how functions can return values
+
 fun main(args: Array<String>){
     if(args.size != 2){
         println("Enter two integers.")

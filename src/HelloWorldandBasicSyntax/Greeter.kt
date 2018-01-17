@@ -1,3 +1,7 @@
+package HelloWorldandBasicSyntax
+
+//Look at class declarations
+
 class Greeter(val name: String){
     fun greet(){
         println("Hello $name!")

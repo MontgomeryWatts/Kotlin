@@ -1,3 +1,7 @@
+package HelloWorldandBasicSyntax
+
+//Familiarizing self with main function delcaration, calling values from array with $
+
 fun main(args: Array<String>){
     if(args.size == 0){
         println("Please provide a name in the command line.")
